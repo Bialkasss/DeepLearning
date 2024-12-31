@@ -2,5 +2,6 @@ CNN/images/*
 CNN/images.tar
 Crack_segmentation/*
 !Crack_segmentation/project.ipynb
+!Crack_segmentation/sandbox.ipynb
 !Crack_segmentation/testingSavedModels.ipynb
 !Crack_segmentation/readme
