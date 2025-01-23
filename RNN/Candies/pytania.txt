@@ -1,0 +1,4 @@
+softmax? czy sigmoid. 
+jak liczyc to accuracy?
+czy minimalizuje dobra rzecz?
+
