@@ -58,11 +58,3 @@ Synthetic time series were generated, each class following a distinct pattern wi
 
 ## Author
 Maria Musiał
-
-- Improve generalization to real-world sensor datasets  
-- Extend to multivariate/multi-label settings  
-- Integrate more advanced interpretability methods (e.g., SHAP, attention heatmaps)  
-
----
-
-Let me know if you'd like this in Polish 🇵🇱, want to embed output plots directly, or need help generating a nice cover image.
