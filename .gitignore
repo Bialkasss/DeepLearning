@@ -3,3 +3,6 @@ CNN/images.tar
 Crack_segmentation/*
 !Crack_segmentation/Crack_segmentation_project.ipynb
 !Crack_segmentation/readme
+*.keras
+*.h5
+*.pkl
