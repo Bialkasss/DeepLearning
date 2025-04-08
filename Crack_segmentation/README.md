@@ -38,7 +38,7 @@ Final model achieved impressive metrics on the test set:
 
 ### Performance Visualization
 
-![Model Training Performance]((https://github.com/Bialkasss/DeepLearning/blob/01fe8d7946514fb0e983681a0476a4eca1270232/Crack_segmentation/performance.png))
+![Model Training Performance](https://github.com/Bialkasss/DeepLearning/blob/01fe8d7946514fb0e983681a0476a4eca1270232/Crack_segmentation/performance.png)
 
 The model showed strong convergence with minimal overfitting after implementing early stopping and model checkpointing.
 
@@ -47,7 +47,7 @@ The model showed strong convergence with minimal overfitting after implementing 
 
 We implemented saliency maps to understand what features the model focuses on when making predictions:
 
-![Saliency Maps]((https://github.com/Bialkasss/DeepLearning/blob/01fe8d7946514fb0e983681a0476a4eca1270232/Crack_segmentation/output.png))
+![Saliency Maps](https://github.com/Bialkasss/DeepLearning/blob/01fe8d7946514fb0e983681a0476a4eca1270232/Crack_segmentation/output.png)
 
 Key insights:
 - For crack images: The model correctly focuses on the actual crack regions
